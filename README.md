@@ -1,3 +1,4 @@
+![dashboard.png](dashboard.png)
 
 # Installation
 
@@ -28,6 +29,3 @@
 - Geographical distirbution of delivery term violations should be studied more thouroughly as well as item categories.
 - Other domains also should be checked.
 
-
-
-![dashboard.png](dashboard.png)
