@@ -23,10 +23,10 @@
 
 - It is very important to monitor delivery time as primary review score marker.
 - 2nd leg should be monitored at most.
-- The estimated delivery term could be dynamically revised in peak periods. It seems customers feel frustration because of the fact of package coming later than expected. So slight increase in expected delivery could improve situation to the point it does not affect sales (requires investigation, A/B)
-- Carries should be punished for terms violation as a part of the contract for the future period. It could stimulate them to intensify improvement of second leg logistics.
+- The estimated delivery term could be dynamically revised in peak periods (Xmas eg). It seems customers feel frustration because of the fact of package coming later than expected. So slight increase in expected delivery could improve situation to the point it does not affect sales (requires investigation, A/B). Especially in categories with the most late deliveries (home comfort, audio, furniture mattrasses,) >10%.
+- Carries could be responsible for terms violation as a part of the contract for the future period. It could stimulate them to intensify improvement of second leg logistics.
 
 # Further investigation
-- Geographical distirbution of delivery term violations should be studied more thouroughly as well as item categories.
+- Geographical distirbution of delivery term violations should be studied more thouroughly.
 - Other domains also should be checked.
 
