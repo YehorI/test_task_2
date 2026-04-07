@@ -28,5 +28,5 @@
 - Carries could be responsible for terms violation as a part of the contract for the future period. It could stimulate them to intensify improvement of second leg logistics.
 
 # Further investigation
-- Geographical distirbution of delivery term violations should be studied more thouroughly.
+- Geographical distirbution of delivery term violations should be studied more thoroughly.
 - Other domains also should be checked.
