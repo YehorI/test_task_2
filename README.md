@@ -17,7 +17,8 @@
 - Review score to the share of delivery term longer than esitmated correlation is 0.31. The month with the most scores less than 5 coincides with month (and previous month) with the most late deliveries.
 - The delivery term depends from carrier at most. Delays happen most because of 2nd leg time increase.
 - Late deliveries get near as much 1 scores as in time deliveries 5 scores
-- The expedition distance increase does not explain enhanced delivery term
+- The expedition distance increase does not explain enhanced delivery term.
+- Most late are home comfort, audio, furniture mattrasses. Quantity of goods in package has no effect on delays.
 
 # Recommendations
 
@@ -29,4 +30,3 @@
 # Further investigation
 - Geographical distirbution of delivery term violations should be studied more thouroughly.
 - Other domains also should be checked.
-
